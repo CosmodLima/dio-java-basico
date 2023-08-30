@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "About",
+            "projectName": "java-terminal_d18a159b"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-terminal_d18a159b"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Cosmo",
+                "Lima",
+                "25",
+                "1.71"
+            ]
+        }
+    ]
+}
